@@ -81,7 +81,7 @@
 - **📊 Smart Inventory & Menu Management**  
   AI-driven restaurant system using YOLOv8, Prophet for sales, and menu optimization  
   `Tech:` Python, FastAPI, React.js, MySQL  
-  [[🔗 GitHub Repository](https://github.com/alkyema/Smart-Restaurement-management-using-openCV.git)]
+  [[🔗 GitHub Repository](https://github.com/Sonu283/Smart-Restaurant-Management-using-openCV.git)]
 
 ---
 
